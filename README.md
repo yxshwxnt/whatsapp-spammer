@@ -1,6 +1,4 @@
 # whatsapp-spammer
-Please use readme to understand how to use
-keep the python program and spam.txt file in one same folder 
-the delay time for the code is 5secs you can change that 
-for using the spam feature just run the program and after that open the chat you want to spam to make sure it doesn't take more than 5 seconds to open the chat after executing the program 
-this will spam "bot" by default you can change that 
+make sure you have install pyautogui 
+you can use command pip install pyautogui for that
+for this version you do not need any .txt file just change the range and type whatever you want to spam
